@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn+SC&display=swap');
+
+body {
+  font-family: 'Vollkorn SC', serif;
+  max-height: 100vh;
+  font-size: 16px;
+  margin: 4em;
+  padding: 1em;
+  margin: 0 auto;
+}

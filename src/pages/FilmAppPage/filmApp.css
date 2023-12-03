@@ -1,0 +1,13 @@
+.film__app-wrapper {
+  display: flex;
+  margin-top: 60px;
+}
+.sort__menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 360px;
+  height: 840px;
+  padding-left: 10px;
+  margin-right: 40px;
+}
