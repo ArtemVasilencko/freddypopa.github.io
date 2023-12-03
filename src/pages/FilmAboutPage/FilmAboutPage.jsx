@@ -68,6 +68,7 @@ export function FilmAboutPage() {
               <StarIcon />
             </IconButton>
           </Box>
+          
           <Link to="/">
             <IconButton className="backButton">
               <ArrowBack />
